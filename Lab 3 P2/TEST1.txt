@@ -1,0 +1,705 @@
+Tests beginning:
+ABS Test - Scale Factor: 1.5 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002636
+Size: 1000
+Max Capacity: 1066
+Resizes: 16
+Dequeueing.....
+Elapsed time: 0.0183352
+Size: 0
+Max Capacity: 1
+Resizes: 32
+ABS Test - Scale Factor: 2 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0001578
+Size: 1000
+Max Capacity: 1024
+Resizes: 9
+Dequeueing.....
+Elapsed time: 0.0149092
+Size: 0
+Max Capacity: 1
+Resizes: 19
+ABS Test - Scale Factor: 3 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0001667
+Size: 1000
+Max Capacity: 1458
+Resizes: 6
+Dequeueing.....
+Elapsed time: 0.0243783
+Size: 0
+Max Capacity: 0
+Resizes: 13
+ABS Test - Scale Factor: 10 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005092
+Size: 1000
+Max Capacity: 2000
+Resizes: 3
+Dequeueing.....
+Elapsed time: 0.0195071
+Size: 0
+Max Capacity: 0
+Resizes: 7
+ABS Test - Scale Factor: 100 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002181
+Size: 1000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.021023
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABS Test - Scale Factor: 1.5 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004774
+Size: 3000
+Max Capacity: 3597
+Resizes: 19
+Dequeueing.....
+Elapsed time: 0.0980218
+Size: 0
+Max Capacity: 1
+Resizes: 38
+ABS Test - Scale Factor: 2 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0003534
+Size: 3000
+Max Capacity: 4096
+Resizes: 11
+Dequeueing.....
+Elapsed time: 0.0912788
+Size: 0
+Max Capacity: 1
+Resizes: 23
+ABS Test - Scale Factor: 3 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.000237
+Size: 3000
+Max Capacity: 4374
+Resizes: 7
+Dequeueing.....
+Elapsed time: 0.069996
+Size: 0
+Max Capacity: 0
+Resizes: 15
+ABS Test - Scale Factor: 10 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005493
+Size: 3000
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.0816536
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABS Test - Scale Factor: 100 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0001963
+Size: 3000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.0846661
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABS Test - Scale Factor: 1.5 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0006333
+Size: 5000
+Max Capacity: 5395
+Resizes: 20
+Dequeueing.....
+Elapsed time: 0.142133
+Size: 0
+Max Capacity: 1
+Resizes: 40
+ABS Test - Scale Factor: 2 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.00203
+Size: 5000
+Max Capacity: 8192
+Resizes: 12
+Dequeueing.....
+Elapsed time: 0.188847
+Size: 0
+Max Capacity: 1
+Resizes: 25
+ABS Test - Scale Factor: 3 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004813
+Size: 5000
+Max Capacity: 13122
+Resizes: 8
+Dequeueing.....
+Elapsed time: 0.178352
+Size: 0
+Max Capacity: 0
+Resizes: 17
+ABS Test - Scale Factor: 10 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0003014
+Size: 5000
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.258242
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABS Test - Scale Factor: 100 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0007997
+Size: 5000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.165925
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABS Test - Scale Factor: 1.5 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0006601
+Size: 7500
+Max Capacity: 8092
+Resizes: 21
+Dequeueing.....
+Elapsed time: 0.225147
+Size: 0
+Max Capacity: 1
+Resizes: 42
+ABS Test - Scale Factor: 2 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005046
+Size: 7500
+Max Capacity: 8192
+Resizes: 12
+Dequeueing.....
+Elapsed time: 0.234421
+Size: 0
+Max Capacity: 1
+Resizes: 25
+ABS Test - Scale Factor: 3 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.000628
+Size: 7500
+Max Capacity: 13122
+Resizes: 8
+Dequeueing.....
+Elapsed time: 0.242829
+Size: 0
+Max Capacity: 0
+Resizes: 17
+ABS Test - Scale Factor: 10 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0003994
+Size: 7500
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.234689
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABS Test - Scale Factor: 100 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0003787
+Size: 7500
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.242726
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABS Test - Scale Factor: 1.5 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0008297
+Size: 10000
+Max Capacity: 12138
+Resizes: 22
+Dequeueing.....
+Elapsed time: 0.342075
+Size: 0
+Max Capacity: 1
+Resizes: 44
+ABS Test - Scale Factor: 2 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0011884
+Size: 10000
+Max Capacity: 16384
+Resizes: 13
+Dequeueing.....
+Elapsed time: 0.358272
+Size: 0
+Max Capacity: 1
+Resizes: 27
+ABS Test - Scale Factor: 3 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0010654
+Size: 10000
+Max Capacity: 13122
+Resizes: 8
+Dequeueing.....
+Elapsed time: 0.357027
+Size: 0
+Max Capacity: 0
+Resizes: 17
+ABS Test - Scale Factor: 10 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004716
+Size: 10000
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.355023
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABS Test - Scale Factor: 100 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004574
+Size: 10000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.397283
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABQ Test - Scale Factor: 1.5 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004442
+Size: 1000
+Max Capacity: 1066
+Resizes: 16
+Dequeueing.....
+Elapsed time: 0.020927
+Size: 0
+Max Capacity: 1
+Resizes: 32
+ABQ Test - Scale Factor: 2 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0001629
+Size: 1000
+Max Capacity: 1024
+Resizes: 9
+Dequeueing.....
+Elapsed time: 0.0191766
+Size: 0
+Max Capacity: 1
+Resizes: 19
+ABQ Test - Scale Factor: 3 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002155
+Size: 1000
+Max Capacity: 1458
+Resizes: 6
+Dequeueing.....
+Elapsed time: 0.0156856
+Size: 0
+Max Capacity: 0
+Resizes: 13
+ABQ Test - Scale Factor: 10 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 9.42e-05
+Size: 1000
+Max Capacity: 2000
+Resizes: 3
+Dequeueing.....
+Elapsed time: 0.0146306
+Size: 0
+Max Capacity: 0
+Resizes: 7
+ABQ Test - Scale Factor: 100 N: 1000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004615
+Size: 1000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.0191711
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABQ Test - Scale Factor: 1.5 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004126
+Size: 3000
+Max Capacity: 3597
+Resizes: 19
+Dequeueing.....
+Elapsed time: 0.0615011
+Size: 0
+Max Capacity: 1
+Resizes: 38
+ABQ Test - Scale Factor: 2 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002937
+Size: 3000
+Max Capacity: 4096
+Resizes: 11
+Dequeueing.....
+Elapsed time: 0.0692754
+Size: 0
+Max Capacity: 1
+Resizes: 23
+ABQ Test - Scale Factor: 3 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002425
+Size: 3000
+Max Capacity: 4374
+Resizes: 7
+Dequeueing.....
+Elapsed time: 0.0712571
+Size: 0
+Max Capacity: 0
+Resizes: 15
+ABQ Test - Scale Factor: 10 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002054
+Size: 3000
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.0732679
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABQ Test - Scale Factor: 100 N: 3000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0001882
+Size: 3000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.0904765
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABQ Test - Scale Factor: 1.5 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005787
+Size: 5000
+Max Capacity: 5395
+Resizes: 20
+Dequeueing.....
+Elapsed time: 0.118154
+Size: 0
+Max Capacity: 1
+Resizes: 40
+ABQ Test - Scale Factor: 2 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0003835
+Size: 5000
+Max Capacity: 8192
+Resizes: 12
+Dequeueing.....
+Elapsed time: 0.13291
+Size: 0
+Max Capacity: 1
+Resizes: 25
+ABQ Test - Scale Factor: 3 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004102
+Size: 5000
+Max Capacity: 13122
+Resizes: 8
+Dequeueing.....
+Elapsed time: 0.133223
+Size: 0
+Max Capacity: 0
+Resizes: 17
+ABQ Test - Scale Factor: 10 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0002736
+Size: 5000
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.151825
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABQ Test - Scale Factor: 100 N: 5000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.000301
+Size: 5000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.138619
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABQ Test - Scale Factor: 1.5 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0006847
+Size: 7500
+Max Capacity: 8092
+Resizes: 21
+Dequeueing.....
+Elapsed time: 0.218938
+Size: 0
+Max Capacity: 1
+Resizes: 42
+ABQ Test - Scale Factor: 2 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0004998
+Size: 7500
+Max Capacity: 8192
+Resizes: 12
+Dequeueing.....
+Elapsed time: 0.243654
+Size: 0
+Max Capacity: 1
+Resizes: 25
+ABQ Test - Scale Factor: 3 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005473
+Size: 7500
+Max Capacity: 13122
+Resizes: 8
+Dequeueing.....
+Elapsed time: 0.237398
+Size: 0
+Max Capacity: 0
+Resizes: 17
+ABQ Test - Scale Factor: 10 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0010633
+Size: 7500
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.265051
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABQ Test - Scale Factor: 100 N: 7500
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005269
+Size: 7500
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.267209
+Size: 0
+Max Capacity: 0
+Resizes: 5
+ABQ Test - Scale Factor: 1.5 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0009406
+Size: 10000
+Max Capacity: 12138
+Resizes: 22
+Dequeueing.....
+Elapsed time: 0.363263
+Size: 0
+Max Capacity: 1
+Resizes: 44
+ABQ Test - Scale Factor: 2 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0007385
+Size: 10000
+Max Capacity: 16384
+Resizes: 13
+Dequeueing.....
+Elapsed time: 0.384106
+Size: 0
+Max Capacity: 1
+Resizes: 27
+ABQ Test - Scale Factor: 3 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0008442
+Size: 10000
+Max Capacity: 13122
+Resizes: 8
+Dequeueing.....
+Elapsed time: 0.406926
+Size: 0
+Max Capacity: 0
+Resizes: 17
+ABQ Test - Scale Factor: 10 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0006111
+Size: 10000
+Max Capacity: 20000
+Resizes: 4
+Dequeueing.....
+Elapsed time: 0.376449
+Size: 0
+Max Capacity: 0
+Resizes: 9
+ABQ Test - Scale Factor: 100 N: 10000
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Size: 0
+Max Capacity: 2
+Enqueuing.....
+Elapsed time: 0.0005631
+Size: 10000
+Max Capacity: 20000
+Resizes: 2
+Dequeueing.....
+Elapsed time: 0.415218
+Size: 0
+Max Capacity: 0
+Resizes: 5
+
+C:\Users\maulgoth\Google Drive\COLLEGE\SUMMER 2020\COP 3503\Labs and Projects\Labs\Lab 3 P2\Debug\Lab 3 P2.exe (process 7680) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
